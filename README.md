@@ -1,5 +1,16 @@
 # Games I've created with JS:
 
+<a href="https://github.com/agiwunderlich/Maze_game">Maze Game</a>
+
+Maze game created on Canvas, using a third-party library called Matter.js.
+
+<img width="300" alt="colorgame" src="https://user-images.githubusercontent.com/35004717/140768897-5600f568-7dd8-489a-b9ac-9df5a13bd943.png">
+
+
+
+------------------------------------------
+
+
 <a href="https://github.com/agiwunderlich/PatatapClone">"Patatap" Site Clone</a>
 
 By pressing various keys you can hear different sounds </br> whose vibration is illustrated by a disappearing colored ball.
